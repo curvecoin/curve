@@ -1,0 +1,6 @@
+usr/local/bin/curve-qt usr/bin
+share/pixmaps/curve32.xpm usr/share/pixmaps
+share/pixmaps/curve16.xpm usr/share/pixmaps
+share/pixmaps/curve128.png usr/share/pixmaps
+debian/curve-qt.desktop usr/share/applications
+debian/curve-qt.protocol usr/share/kde4/services/

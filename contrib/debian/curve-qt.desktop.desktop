@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Curve
+Comment=Curve P2P Cryptocurrency
+Exec=curve-qt %u
+Terminal=false
+Type=Application
+Icon=curve128
+MimeType=x-scheme-handler/curve;
+Categories=Office;Finance;
+Name[en_US]=curve-qt.desktop

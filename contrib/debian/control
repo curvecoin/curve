@@ -1,0 +1,68 @@
+Source: curve
+Section: utils
+Priority: optional
+Maintainer: Holger Schinzel <holger@curve.org>
+Uploaders: Holger Schinzel <holger@curve.org>
+Build-Depends: debhelper,
+ devscripts,
+ automake,
+ libtool,
+ bash-completion,
+ libdb4.8++-dev,
+ libssl-dev,
+ pkg-config,
+ libevent-dev,
+ libboost-system1.48-dev | libboost-system-dev (>> 1.35),
+ libboost-filesystem1.48-dev | libboost-filesystem-dev (>> 1.35),
+ libboost-program-options1.48-dev | libboost-program-options-dev (>> 1.35),
+ libboost-thread1.48-dev | libboost-thread-dev (>> 1.35),
+ libboost-test1.48-dev | libboost-test-dev (>> 1.35),
+ libboost-chrono1.48-dev | libboost-chrono-dev (>> 1.35),
+ qt4-qmake,
+ libqt4-dev,
+ libqrencode-dev,
+ libprotobuf-dev, protobuf-compiler,
+ python
+Standards-Version: 3.9.2
+Homepage: https://www.curve.org/
+Vcs-Git: git://github.com/curvepay/curve.git
+Vcs-Browser: https://github.com/curvepay/curve
+
+Package: curved
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: peer-to-peer network based digital currency - daemon
+ Curve is an experimental new digital currency that enables anonymous, instant
+ payments to anyone, anywhere in the world. Curve uses peer-to-peer
+ technology to operate with no central authority: managing transactions
+ and issuing money are carried out collectively by the network. Curve Core
+ is the name of the open source software which enables the use of this currency.
+ .
+ This package provides the daemon, curved, and the CLI tool
+ curve-cli to interact with the daemon.
+
+Package: curve-qt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: peer-to-peer network based digital currency - Qt GUI
+ Curve is an experimental new digital currency that enables anonymous, instant
+ payments to anyone, anywhere in the world. Curve uses peer-to-peer
+ technology to operate with no central authority: managing transactions
+ and issuing money are carried out collectively by the network. Curve Core
+ is the name of the open source software which enables the use of this currency.
+ .
+ This package provides Curve-Qt, a GUI for Curve based on Qt.
+
+Package: curve-tx
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: peer-to-peer digital currency - standalone transaction tool
+ Curve is an experimental new digital currency that enables anonymous, instant
+ payments to anyone, anywhere in the world. Curve uses peer-to-peer
+ technology to operate with no central authority: managing transactions
+ and issuing money are carried out collectively by the network. Curve Core
+ is the name of the open source software which enables the use of this currency.
+ .
+ This package provides curve-tx, a command-line transaction creation
+ tool which can be used without a curve daemon.  Some means of
+ exchanging minimal transaction data with peers is still required.
