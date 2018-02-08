@@ -143,7 +143,7 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x00000c9048baaa666e4809285190c16b05ee2daa28bc00c3d40c00dce0b104f8"));
         assert(genesis.hashMerkleRoot == uint256S("0xb5a441df95494c216a9f6d3366a98d3c948cd03373b757fa1cf3305812d6c14b"));
 
-        //vSeeds.push_back(CDNSSeedData("curvecash.com", "dnsseed.curvecash.com"));
+        vSeeds.push_back(CDNSSeedData("0", "144.202.2.140"));
 
         // Curve addresses start with 'C'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,28);
