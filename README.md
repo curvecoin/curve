@@ -1,7 +1,4 @@
-Curve Core staging tree 0.12.2
-===============================
+Curve Core 
+==========
 
 https://www.curvecoin.co
-
-
-Information coming soon
