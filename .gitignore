@@ -61,7 +61,7 @@ libconftest.dylib*
 *.pyc
 *.o
 *.o-*
-*.patch
+#*.patch
 .curve
 *.a
 *.pb.cc
@@ -80,7 +80,7 @@ libconftest.dylib*
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
+#Makefile
 curve-qt
 curve-Qt.app
 
