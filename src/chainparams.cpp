@@ -129,7 +129,7 @@ public:
         pchMessageStart[1] = 0xb1;
         pchMessageStart[2] = 0xc2;
         pchMessageStart[3] = 0xd3;
-        vAlertPubKey = ParseHex("c439cbc2d0ecdca8a4261e5269911e2f54d44ecf85d1da78dc930ea49ded2fb0b567b32420fac699236fee404a8d8ca7ec42f0701930b0bc0ea80eb3f72bc5ded2");
+        vAlertPubKey = ParseHex("MHQCAQEEIHsH8UgYfuTv3aGa6dZHO6X1hz8oYLSod6yzbGLZR2x3oAcGBSuBBAAKoUQDQgAEb8nJ9EaVywFrAB9AgUgbd/gA1eXZIyniCwZSYJZESXJufowNsqO47tQ0FX8v7u+B6wdpJY+UO4o2suxb/X5GMg==");
         nDefaultPort = 9191;
         nMaxTipAge = 6 * 60 * 60;
         nDelayGetHeadersTime = 24 * 60 * 60;
