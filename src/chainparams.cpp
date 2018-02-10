@@ -144,6 +144,11 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0xb5a441df95494c216a9f6d3366a98d3c948cd03373b757fa1cf3305812d6c14b"));
 
         vSeeds.push_back(CDNSSeedData("0", "144.202.2.140"));
+        vSeeds.push_back(CDNSSeedData("1", "108.61.209.199"));
+        vSeeds.push_back(CDNSSeedData("2", "45.63.26.190"));
+        vSeeds.push_back(CDNSSeedData("3", "45.32.148.192"));
+        vSeeds.push_back(CDNSSeedData("4", "45.76.141.201"));
+        vSeeds.push_back(CDNSSeedData("5", "108.61.177.0"));
 
         // Curve addresses start with 'C'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,28);
