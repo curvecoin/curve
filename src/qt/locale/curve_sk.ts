@@ -841,28 +841,28 @@
         <translation>Prosím vyberte úroveň súkromia.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Použiť 2 rozdielne masternode pre fixovanie prostriedkov až do 10000 CURV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Použiť 2 rozdielne masternode pre fixovanie prostriedkov až do 25000 CURV</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Použiť 8 rozdielnych masternode pre fixovanie prostriedkov až do 10000 CURV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Použiť 8 rozdielnych masternode pre fixovanie prostriedkov až do 25000 CURV</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Použiť 16 rozdielnych masternode</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</source>
-        <translation>Táto možnosť je najrýchlejšia a bude stáť približne 0.025 CURV pre anonimizáciu 10000 CURV</translation>
+        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</source>
+        <translation>Táto možnosť je najrýchlejšia a bude stáť približne 0.025 CURV pre anonimizáciu 25000 CURV</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</source>
-        <translation>Táto možnosť je stredne rýchla bude stáť približne 0.05 CURV pre anonimizáciu 10000 CURV</translation>
+        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</source>
+        <translation>Táto možnosť je stredne rýchla bude stáť približne 0.05 CURV pre anonimizáciu 25000 CURV</translation>
     </message>
     <message>
-        <source>0.1 CURV per 10000 CURV you anonymize.</source>
-        <translation>0.1 CURV za 10000 CURV ktoré spravíte anonymnými.</translation>
+        <source>0.1 CURV per 25000 CURV you anonymize.</source>
+        <translation>0.1 CURV za 25000 CURV ktoré spravíte anonymnými.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -3794,8 +3794,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Tento produkt obsahuje softvér vyvinutý projektom OpenSSL pre použitie sady nástrojov OpenSSL &lt;https://www.openssl.org/&gt; a kryptografického softvéru napísaného Eric Young a UPnP softvér napísaný Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Nenašiel sa dostatok prostriedkov pre túto transakciu, ktorú nie sú rovné 10000 CURV.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Nenašiel sa dostatok prostriedkov pre túto transakciu, ktorú nie sú rovné 25000 CURV.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4254,8 +4254,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Nedá sa nájsť dostatok denominácií PrivateSend pre túto transakciu. </translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Nedá sa nájsť dostatok ne-denominovaných PrivateSend zdrojov pre túto transakciu, ktoré nie sú rovné 10000 CURV.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Nedá sa nájsť dostatok ne-denominovaných PrivateSend zdrojov pre túto transakciu, ktoré nie sú rovné 25000 CURV.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

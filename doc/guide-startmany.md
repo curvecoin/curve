@@ -8,7 +8,7 @@
 2. Click the Receive tab.
 3. Fill in the form to request a payment.
     * Label: mn01
-    * Amount: 10000 (optional)
+    * Amount: 25000 (optional)
     * Click *Request payment* button
 5. Click the *Copy Address* button
 
@@ -16,9 +16,9 @@ Create a new wallet address for each Masternode.
 
 Close your QT Wallet.
 
-### Send 10000 CURV to New Addresses
+### Send 25000 CURV to New Addresses
 
-Send exactly 10000 CURV to each new address created above.
+Send exactly 25000 CURV to each new address created above.
 
 ### Create New Masternode Private Keys
 
@@ -38,9 +38,9 @@ Remember... this is local. Make sure your QT is not running.
 
 Create the `masternode.conf` file in the same directory as your `wallet.dat`.
 
-Copy the masternode private key and correspondig collateral output transaction that holds the 10000 CURV.
+Copy the masternode private key and correspondig collateral output transaction that holds the 25000 CURV.
 
-*Note: The masternode priviate key is **not** the same as a wallet private key. **Never** put your wallet private key in the masternode.conf file. That is almost equivalent to putting your 10000 CURV on the remote server and defeats the purpose of a hot/cold setup.*
+*Note: The masternode priviate key is **not** the same as a wallet private key. **Never** put your wallet private key in the masternode.conf file. That is almost equivalent to putting your 25000 CURV on the remote server and defeats the purpose of a hot/cold setup.*
 
 ### Get the collateral output
 
@@ -120,7 +120,7 @@ curve-cli masternode status
 {
     "outpoint" : "<collateral_output>-<collateral_output_index>",
     "service" : "<ipaddress>:<port>",
-    "pubkey" : "<10000 CURV address>",
+    "pubkey" : "<25000 CURV address>",
     "status" : "Masternode successfully started"
 }
 ```

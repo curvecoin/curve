@@ -857,28 +857,28 @@
         <translation>Hãy chọn mức độ riêng tư.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Sử dụng 2 masternode khác nhau để trộn số tiền lên đến 10000 CURV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Sử dụng 2 masternode khác nhau để trộn số tiền lên đến 25000 CURV</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Sử dụng 8 masternode khác nhau để trộn số tiền lên đến 10000 CURV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Sử dụng 8 masternode khác nhau để trộn số tiền lên đến 25000 CURV</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Sử dụng 16 masternode khác nhau</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</source>
-        <translation>Tuỳ chọn này là nhanh nhất và sẽ mất chi phí khoảng ~0.025 CURV để ẩn danh 10000 CURV</translation>
+        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</source>
+        <translation>Tuỳ chọn này là nhanh nhất và sẽ mất chi phí khoảng ~0.025 CURV để ẩn danh 25000 CURV</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</source>
-        <translation>Tuỳ chọn này là tương đối nhanh và sẽ mất chi phí khoảng ~0.05 CURV để ẩn danh 10000 CURV</translation>
+        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</source>
+        <translation>Tuỳ chọn này là tương đối nhanh và sẽ mất chi phí khoảng ~0.05 CURV để ẩn danh 25000 CURV</translation>
     </message>
     <message>
-        <source>0.1 CURV per 10000 CURV you anonymize.</source>
-        <translation>0.1 CURV cho mỗi 10000 CURV bạn muốn ẩn danh.</translation>
+        <source>0.1 CURV per 25000 CURV you anonymize.</source>
+        <translation>0.1 CURV cho mỗi 25000 CURV bạn muốn ẩn danh.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -4077,8 +4077,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Sản phẩm này có kèm theo phần mềm được phát triển bởi dự án OpenSSL để sử dụng các công cụ OpenSSL &lt;https://www.openssl.org/&gt; và phần mềm mã hoá được viết bởi Eric Young và phần mềm UPnP được viết bởi Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Không tìm được đủ ngân sách cho giao dịch mà nó không đủ 10000 CURV.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Không tìm được đủ ngân sách cho giao dịch mà nó không đủ 25000 CURV.</translation>
     </message>
     <message>
         <source>Use hierarchical deterministic key generation (HD) after bip39/bip44. Only has effect during wallet creation/first start</source>
@@ -4677,8 +4677,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Không tìm đủ nguồn tiền PrivateSend denominated cho giao dịch này.</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Không thể tìm thấy đủ nguồn chưa phân mệnh giá PrivateSend cho giao dịch này mà nó không bằng 10000 CURV.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Không thể tìm thấy đủ nguồn chưa phân mệnh giá PrivateSend cho giao dịch này mà nó không bằng 25000 CURV.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

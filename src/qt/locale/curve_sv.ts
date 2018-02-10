@@ -758,28 +758,28 @@ Adress: %4
         <translation>Vänligen välj en integritetsnivå.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Använd 2 enskilda masternoder för att mixa medel upp till 10000 CURV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Använd 2 enskilda masternoder för att mixa medel upp till 25000 CURV</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Använd 8 enskilda masternoder för att mixa medel upp till 10000 CURV.</translation>
+        <source>Use 8 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Använd 8 enskilda masternoder för att mixa medel upp till 25000 CURV.</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Använd 16 enskilda masternoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</source>
-        <translation>Detta alternativ är det snabbaste och kommer att kosta omkring ~0,025 CURV för att anonymisera 10000 CURV</translation>
+        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</source>
+        <translation>Detta alternativ är det snabbaste och kommer att kosta omkring ~0,025 CURV för att anonymisera 25000 CURV</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</source>
-        <translation>Detta alternativ är relativt snabbt och kommer att kosta omkring 0,05 CURV för att anonymisera 10000 CURV</translation>
+        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</source>
+        <translation>Detta alternativ är relativt snabbt och kommer att kosta omkring 0,05 CURV för att anonymisera 25000 CURV</translation>
     </message>
     <message>
-        <source>0.1 CURV per 10000 CURV you anonymize.</source>
-        <translation>0,1 CURV per 10000 CURV du anonymiserar.</translation>
+        <source>0.1 CURV per 25000 CURV you anonymize.</source>
+        <translation>0,1 CURV per 25000 CURV du anonymiserar.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -2730,8 +2730,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Kunde inte hitta tillräckliga Darksend-denominationsmedel för denna transaktion.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Kunde inte hitta tillräckliga Darksend-icke-denominationsmedel för denna transaktion som inte är likvärdiga 10000 CURV.</translation>
+        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Kunde inte hitta tillräckliga Darksend-icke-denominationsmedel för denna transaktion som inte är likvärdiga 25000 CURV.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>

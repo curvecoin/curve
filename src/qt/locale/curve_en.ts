@@ -1083,13 +1083,13 @@
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Use 2 separate masternodes to mix funds up to 10000 CURV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Use 2 separate masternodes to mix funds up to 25000 CURV</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Use 8 separate masternodes to mix funds up to 10000 CURV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Use 8 separate masternodes to mix funds up to 25000 CURV</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1098,18 +1098,18 @@
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</source>
-        <translation>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</translation>
+        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</source>
+        <translation>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</source>
-        <translation>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</translation>
+        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</source>
+        <translation>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>0.1 CURV per 10000 CURV you anonymize.</source>
-        <translation>0.1 CURV per 10000 CURV you anonymize.</translation>
+        <source>0.1 CURV per 25000 CURV you anonymize.</source>
+        <translation>0.1 CURV per 25000 CURV you anonymize.</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -5269,8 +5269,8 @@ https://www.transifex.com/projects/p/curve/</translation>
     </message>
     <message>
         <location line="+17"/>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Unable to locate enough funds for this transaction that are not equal 10000 CURV.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Unable to locate enough funds for this transaction that are not equal 25000 CURV.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -6019,8 +6019,8 @@ https://www.transifex.com/projects/p/curve/</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 10000 CURV.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 25000 CURV.</translation>
     </message>
     <message>
         <location line="+6"/>

@@ -857,28 +857,28 @@
         <translation>Пожалуйста, выберите уровень приватности.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Использовать 2 отдельные мастерноды для перемешивания до 10000 CURV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Использовать 2 отдельные мастерноды для перемешивания до 25000 CURV</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Использовать 8 отдельных мастернод для перемешивания до 10000 CURV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Использовать 8 отдельных мастернод для перемешивания до 25000 CURV</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Использовать 16 отдельных мастернод</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</source>
-        <translation>Это самый быстрый вариант, анонимизация 10000 CURV будет стоить вам примерно 0.025 CURV</translation>
+        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</source>
+        <translation>Это самый быстрый вариант, анонимизация 25000 CURV будет стоить вам примерно 0.025 CURV</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</source>
-        <translation>Это относительно быстрый вариант, анонимизация 10000 CURV будет стоить вам примерно 0.05 CURV</translation>
+        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</source>
+        <translation>Это относительно быстрый вариант, анонимизация 25000 CURV будет стоить вам примерно 0.05 CURV</translation>
     </message>
     <message>
-        <source>0.1 CURV per 10000 CURV you anonymize.</source>
-        <translation>0.1 CURV за каждые анонимизированные 10000 CURV.</translation>
+        <source>0.1 CURV per 25000 CURV you anonymize.</source>
+        <translation>0.1 CURV за каждые анонимизированные 25000 CURV.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -4077,7 +4077,7 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Этот продукт включает ПО, разработанное проектом OpenSSL Project для использования в OpenSSL Toolkit &lt;https://www.openssl.org/&gt;, криптографическое ПО, написанное Eric Young и ПО для работы с UPnP, написанное Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CURV.</source>
+        <source>Unable to locate enough funds for this transaction that are not equal 25000 CURV.</source>
         <translation>Не удалось обнаружить достаточных для выполнения этой транзакции средств, отличающихся от 1000DRK.</translation>
     </message>
     <message>
@@ -4677,8 +4677,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Не удалось обнаружить достаточных для выполнения этой транзакции номиналов PrivateSend.</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Не удалось обнаружить достаточных для выполнения этой транзакции неденоминированных средств, отличающихся от 10000 CURV.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Не удалось обнаружить достаточных для выполнения этой транзакции неденоминированных средств, отличающихся от 25000 CURV.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

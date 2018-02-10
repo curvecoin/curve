@@ -849,11 +849,11 @@
         <translation>請選擇穩私級別。</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CURV</source>
+        <source>Use 2 separate masternodes to mix funds up to 25000 CURV</source>
         <translation>使用2個獨立的主節點來混合最高達1000達世幣的資金</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CURV</source>
+        <source>Use 8 separate masternodes to mix funds up to 25000 CURV</source>
         <translation>使用8個獨立的主節點來混合最高達1000達世幣的資金</translation>
     </message>
     <message>
@@ -861,15 +861,15 @@
         <translation>使用16個獨立的主節點</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</source>
+        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</source>
         <translation>這個是最快的選項，將耗費約~0.025達世幣作為匿名處理1000達世幣的費用</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</source>
+        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</source>
         <translation>這個是一般的選項，將耗費約0.05達世幣作為匿名處理1000達世幣的費用</translation>
     </message>
     <message>
-        <source>0.1 CURV per 10000 CURV you anonymize.</source>
+        <source>0.1 CURV per 25000 CURV you anonymize.</source>
         <translation>每1000達世幣耗費0.1達世幣作為匿名處理費用</translation>
     </message>
     <message>
@@ -4029,8 +4029,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>此產品也包含了由 OpenSSL Project 所開發的 OpenSSL Toolkit 軟體 &lt;https://www.openssl.org/&gt;, 和由 Eric Young 撰寫的加解密軟體，以及由 Thomas Bernard 所撰寫的 UPnP 軟體。</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>在本次交易中，無法找到不等於 10000 CURV 的足夠資金用。</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>在本次交易中，無法找到不等於 25000 CURV 的足夠資金用。</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4529,8 +4529,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>在本之交易中，無法找到足夠的匿名發送已除名資金。</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>在本次交易中，無法找到不等於 10000 CURV的足夠未除名資金進行匿名發送。</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>在本次交易中，無法找到不等於 25000 CURV的足夠未除名資金進行匿名發送。</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

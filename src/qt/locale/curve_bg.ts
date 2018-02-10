@@ -857,28 +857,28 @@
         <translation>Моля изберете ниво на сигурност.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Използване на 2 различни masternodes за смесване на средства до 10000 CURV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Използване на 2 различни masternodes за смесване на средства до 25000 CURV</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CURV</source>
-        <translation>Използване на 8 различни masternodes за смесване на средства до 10000 CURV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 25000 CURV</source>
+        <translation>Използване на 8 различни masternodes за смесване на средства до 25000 CURV</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
-        <translation>Използване на 16 различни masternodes за смесване на средства до 10000 CURV</translation>
+        <translation>Използване на 16 различни masternodes за смесване на средства до 25000 CURV</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 10000 CURV</source>
-        <translation>Това е най-бързият вариант, анонимизиране на 10000 CURV ще ви струва около 0.025 CURV</translation>
+        <source>This option is the quickest and will cost about ~0.025 CURV to anonymize 25000 CURV</source>
+        <translation>Това е най-бързият вариант, анонимизиране на 25000 CURV ще ви струва около 0.025 CURV</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 10000 CURV</source>
-        <translation>Това е средно бърз вариант, анонимизиране на 10000 CURV ще ви струва около 0.05 CURV</translation>
+        <source>This option is moderately fast and will cost about 0.05 CURV to anonymize 25000 CURV</source>
+        <translation>Това е средно бърз вариант, анонимизиране на 25000 CURV ще ви струва около 0.05 CURV</translation>
     </message>
     <message>
-        <source>0.1 CURV per 10000 CURV you anonymize.</source>
-        <translation>0.1 CURV за всеки 10000 CURV които анонимизирате.</translation>
+        <source>0.1 CURV per 25000 CURV you anonymize.</source>
+        <translation>0.1 CURV за всеки 25000 CURV които анонимизирате.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -4077,8 +4077,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Този продукт включва софтуер, разработен от проекта OpenSSL за използване в OpenSSL Toolkit &lt;https://www.openssl.org/&gt; и криптографски софтуер, написан от Eric Young и UPnP софтуер, написан от Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Не са намерени достатъчно  средства за тази транзакция, които не са равни на 10000 CURV.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Не са намерени достатъчно  средства за тази транзакция, които не са равни на 25000 CURV.</translation>
     </message>
     <message>
         <source>Use hierarchical deterministic key generation (HD) after bip39/bip44. Only has effect during wallet creation/first start</source>
@@ -4677,8 +4677,8 @@ https://www.transifex.com/projects/p/curve/</translation>
         <translation>Не са намерени достатъчно PrivateSend деноминирани средства за тази транзакция.</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 10000 CURV.</source>
-        <translation>Не са намерени достатъчно PrivateSend неденоминирани средства за тази транзакция, които не са равни на 10000 CURV.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 25000 CURV.</source>
+        <translation>Не са намерени достатъчно PrivateSend неденоминирани средства за тази транзакция, които не са равни на 25000 CURV.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
